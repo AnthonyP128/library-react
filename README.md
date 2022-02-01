@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-to view the web application click here: https://library-react-i.herokuapp.com/
+To view the web application click here: https://library-react-i.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
