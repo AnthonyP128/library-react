@@ -3,10 +3,6 @@ This is a ecommerce application that i have built that mimics a browse and order
 
 This was built in React JS
 
-# This website is live!
-
-To view the web application click here: https://library-react-i.herokuapp.com/
-
 ## To run this web application
 
 Create a clone of this repository
