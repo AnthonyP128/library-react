@@ -1,5 +1,5 @@
 import Nav from "./components/Nav";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Footer from "./components/Footer";
 import Books from "./pages/Books";
